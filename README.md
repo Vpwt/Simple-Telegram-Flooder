@@ -1,2 +1,5 @@
 # Simple-Telegram-Flooder
-Run the file and login to your telegram via the web browser, copy the URL of the user/group, and paste it into the terminal. And write the message you want to flood.
+Login to your telegram channel via web browser and switch to an old version. After that, copy the URL of the user/group, run the program using python 3, and paste the link on the terminal and the message you want to flood.
+
+
+enjoy!
