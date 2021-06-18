@@ -3,9 +3,9 @@ Login to your telegram channel via web browser and switch to an old version. Aft
 
 
 
-# python 3 teleflood.py
-# https://web.telegram.org/#/im?p=@username
-# Message
+$ python 3 teleflood.py
+$ https://web.telegram.org/#/im?p=@username
+$ Message
 
 
 
