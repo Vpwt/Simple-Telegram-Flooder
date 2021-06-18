@@ -11,4 +11,4 @@ while True:
     keyboard.write(msg)
     time.sleep(1)
     keyboard.press_and_release('enter')
-    time.sleep(0.2)
+    time.sleep(0.5)
